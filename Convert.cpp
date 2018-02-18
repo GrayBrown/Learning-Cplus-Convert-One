@@ -41,7 +41,7 @@ void impToKilo()
     float i = 0;
     float k = 0;
 
-    cout << "Enter a value to be converted from Imperial To Kilogramms. " << endl;
+    cout << "Enter a value to be converted from Imperial To Kilograms. " << endl;
     cin >> i;
 
     k = i / 2.2046;
@@ -57,7 +57,7 @@ void kiloToImp()
     int p = 0;
     int stones = 0;
 
-    cout << "Enter the weight to be converted from Kilogramms to Imperial. " << endl;
+    cout << "Enter the weight to be converted from Kilograms to Imperial. " << endl;
     cin >> k;
     i = k * 2.2046;
     stones = i / 14;
