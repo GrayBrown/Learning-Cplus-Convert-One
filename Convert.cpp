@@ -2,8 +2,8 @@
 #include <string>
 using namespace std;
 
-void impToKilo();
-void kiloToImp();
+void impToKilo();  // Function protoype for Converting from Imperial to Kilogramms 
+void kiloToImp();  // Prototype for converting gtom Kilogramms to Imperial
 
 int main()
 {
